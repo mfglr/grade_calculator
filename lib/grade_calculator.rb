@@ -1,6 +1,6 @@
 require 'json'
 
-class Calculator
+class GradeCalculator
 
     def self.calculate(file_name)
         file = File.open(file_name)
