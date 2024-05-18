@@ -1,4 +1,4 @@
-<h3>A grades.json format should be following</h3>
+<h3>A json format should be following</h3>
 
 
 <code>
