@@ -84,9 +84,3 @@ class InvalidScoreExceptin < Exception
         super("Invalid score(#{score})!")
     end
 end
-
-# # grades = Calculator.calculate("grades.json")
-
-# # grades.each do |grade|
-# #   puts grade.to_s
-# # end
